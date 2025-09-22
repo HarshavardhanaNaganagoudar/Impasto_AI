@@ -1,6 +1,12 @@
-# Impasto Paintings with FLUX.1 Kontext [dev]
+# 🎨 Impasto AI  
+*Turn any photo or idea into bold, textured **impasto-style paintings** with [FLUX.1 Kontext [dev]](https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev) + custom LoRA finetuning.*  
 
-This project fine-tunes the **FLUX.1 Kontext [dev]** model to generate **impasto-style paintings** using a LoRA checkpoint.
+---
+
+## 🌟 Inspiration  
+Art has always been about **expression through texture and emotion**. While AI models can generate photorealistic or digital art, very few capture the **thick brushstrokes and tactile feel** of impasto paintings.  
+
+Impasto AI was built to bring this traditional, expressive painting style into the world of generative AI — making digital art feel as alive and textured as a canvas masterpiece.  
 
 ---
 
